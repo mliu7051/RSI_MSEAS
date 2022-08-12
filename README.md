@@ -1,13 +1,10 @@
 # RSI_MSEAS
 Compiling all the code from my 2022 RSI project at the MSEAS lab.
 
-ann.py is the python file containing all of the code for creating the neural network + performing hyperparameter optimization on it.
-
-BH.xlsx is an excel file of incomplete water buoy data from Boston Harbor.
-
-charles.csv is a subset of the water buoy data from the Charles river (data cleansing was not completed on this file).
-
-sample.csv was a small subset of the data from Boston Harbor.
+- ann.py is the python file containing all of the code for creating the neural network + performing hyperparameter optimization on it.
+- BH.xlsx is an excel file of incomplete water buoy data from Boston Harbor.
+- charles.csv is a subset of the water buoy data from the Charles river (data cleansing was not completed on this file).
+- sample.csv was a small subset of the data from Boston Harbor.
 
 
 Here are links to other sources of water quality data I found but didn't end up using for my project:
